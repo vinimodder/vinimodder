@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ViniModder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ViniModder/ViniModder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou @ViniModder
+- 👀 Estou interessado em  Aprender Mas Sobres Programações 😁
+- 🌱 Atualmente estou aprendendo (Javascript Python) 
+- 💞️ Tenho Paixão Por Animais 😁
+- 📫 Como me alcançar (minhas Redes Estão Abaixo 😘)
