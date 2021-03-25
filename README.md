@@ -1,11 +1,10 @@
-
-## - 👋 Olá, sou @ViniModder <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Olá eu sou [VINI MODDER](https://instagram.com/bkvini.ofc) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 <img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
 
 :page_with_curl: Atualmente estou aprendendo:
--Estou interessado em  Aprender Mas Sobres Programações 😁
--Atualmente estou aprendendo (Javascript Python) 
+- Python
+- Javascript
 <img align="center" fit="fill" alt="GIF" src="https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
 
 <img align="center" fit="fill" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" />
